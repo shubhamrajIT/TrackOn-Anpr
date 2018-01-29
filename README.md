@@ -16,7 +16,7 @@ The following libraries should be included along with python 3.6 or above-
 
 6)KNN
 
-#Steps:
+# Steps:
 
 1)Extract TrackOn-Anpr zip file in a folder for e.g. /ANPR
    /ANPR/TrackOn-Anpr/
